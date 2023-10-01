@@ -1,0 +1,19 @@
+{
+  "name": "svg-from-folder-to-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreasEdvardsen/svg-from-folder-to-json.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreasEdvardsen/svg-from-folder-to-json/issues"
+  },
+  "homepage": "https://github.com/AndreasEdvardsen/svg-from-folder-to-json#readme"
+}
